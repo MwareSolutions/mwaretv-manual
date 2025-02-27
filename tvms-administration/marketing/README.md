@@ -1,0 +1,3 @@
+# Marketing
+
+The marketing tool within the TVMS provides customer engagement and driving sales through the strategic use of coupons and affiliate communication. This robust feature allows marketers to create, manage, and distribute promotional coupons that can be utilized by customers to enjoy discounts on subscriptions or services. By leveraging this tool, businesses can effectively incentivize new sign-ups and encourage existing customers to renew their subscriptions. Furthermore, the marketing tool facilitates seamless communication with affiliates, enabling them to promote the OTT service while tracking the performance of various marketing campaigns.
