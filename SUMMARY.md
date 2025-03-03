@@ -31,11 +31,15 @@
   * [Customers aren't getting created](troubleshooting/customers-arent-getting-created.md)
   * [Can't complete a subscription purchasing](troubleshooting/cant-complete-a-subscription-purchasing.md)
 * [Transcoding and streaming](transcoding-and-streaming.md)
-* [Publish Apps in the App stores](publish-apps-in-the-app-stores/README.md)
-  * [Completing the prerequisites](publish-apps-in-the-app-stores/completing-the-prerequisites.md)
-  * [Testing an app](publish-apps-in-the-app-stores/testing-an-app.md)
-  * [Preparing Apps for Publishing](publish-apps-in-the-app-stores/preparing-apps-for-publishing.md)
-  * [How to Add Push Notifications to Your Apps](publish-apps-in-the-app-stores/how-to-add-push-notifications-to-your-apps.md)
+* [Application and app stores](application-and-app-stores/README.md)
+  * [Completing the prerequisites](application-and-app-stores/completing-the-prerequisites.md)
+  * [Testing an app](application-and-app-stores/testing-an-app.md)
+  * [Preparing Apps for Publishing](application-and-app-stores/preparing-apps-for-publishing.md)
+  * [Register Developer Account](application-and-app-stores/register-developer-account.md)
+  * [Payment gateway accounts](application-and-app-stores/payment-gateway-accounts.md)
+  * [Email gateway accounts](application-and-app-stores/email-gateway-accounts.md)
+  * [SMS gateways accounts](application-and-app-stores/sms-gateways-accounts.md)
+  * [Push Notifications Gateway](application-and-app-stores/push-notifications-gateway.md)
 
 ## TVMS administration
 

@@ -16,6 +16,6 @@ Refer to how-to section to find step-by-step instructions for most popular actio
 
 Refer for the miscellaneous parts of the knowledge base
 
-| [Troubleshooting](troubleshooting/) | [Transcoding and streaming](transcoding-and-streaming.md) | [Publish app in the app stores](publish-apps-in-the-app-stores/) |
-| ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Troubleshooting](troubleshooting/) | [Transcoding and streaming](transcoding-and-streaming.md) | [Publish app in the app stores](application-and-app-stores/) |
+| ----------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
 

@@ -122,7 +122,7 @@ An application that is suspected of distributing unlicensed content may be block
 
 <summary>Learn more about publishing in App Stores</summary>
 
-We have a [special manual section ](publish-apps-in-the-app-stores/)with detailed explanations
+We have a [special manual section ](application-and-app-stores/)with detailed explanations
 
 </details>
 
@@ -186,7 +186,7 @@ Each platform has its own app store and its own terms of participation in them. 
 
 For publishing in stores, you better create a special subscription version. It does not necessarily have to include all the content, you can place the most popular there and provide unlimited access for app stores employees.
 
-We describe the account creation process in detail on this page: [preparing-apps-for-publishing.md](publish-apps-in-the-app-stores/preparing-apps-for-publishing.md "mention")
+We describe the account creation process in detail on this page: [preparing-apps-for-publishing.md](application-and-app-stores/preparing-apps-for-publishing.md "mention")
 
 ## How to get new user and how to keep them engages
 

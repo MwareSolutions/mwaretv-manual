@@ -1,4 +1,4 @@
-# Publish Apps in the App stores
+# Application and app stores
 
 Here you can find an overview of the white-labeling process. The table below is a sequence of steps indicating who should carry them out (Client or MwareTV).
 

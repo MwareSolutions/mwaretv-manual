@@ -1,6 +1,6 @@
 # Preparing Apps for Publishing
 
-First of all, you need to [create an app approval product](https://docs.tvms.io/app-publishing/working-with-stores/creating-app-approval-product). This would be a special product with Live TV channels only to simplify the app publishing process.
+First of all, you need to create an app approval product. This would be a special product with Live TV channels only to simplify the app publishing process.
 
 <details>
 
@@ -15,8 +15,6 @@ Once your app approval product is ready, you can proceed with completing all the
 <details>
 
 <summary>Apple App Store</summary>
-
-
 
 If you have not created your Apple Developer account yet, please see the following [article](https://docs.tvms.io/app-publishing/completing-the-prerequisites/registering-developer-accounts#apple-developer-account).
 
