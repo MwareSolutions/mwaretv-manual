@@ -16,9 +16,7 @@ Support Suppliers:
 If your supplier **is not** listed above please **contact** our **support** and we will add it as soon as possible.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Без имени (72).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/изображение (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Linking
 
