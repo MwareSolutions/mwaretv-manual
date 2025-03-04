@@ -6,11 +6,12 @@ First of all, you need to create an app approval product. This would be a specia
 
 <summary>Create an app approval product</summary>
 
-1. In Content > Bundles, create an approval bundle with a limited number of channels, about 10 and be prepared to send legal papers for these channels. Publish the bundle.
-2. Go to Inventory and create an approval product with this bundle, zero cost and significant subscription length, about a year or more. Publish it.
-3. Go to Billing, create a test webshop and add this product therein.&#x20;
-4. Go to Customer and create customers apple\_approval, google\_approval, etc. Give it a password like 1234.
-5. Try to log in with these credentials and make sure it shows the defined content.
+1. First thing is to decide which content will you use for the approval product. In most cases, these are 10 most popular channels with legal papers. You can choose them out from the channels list and create their copies. Don't forget to add a note that this is a special copy for the approval product and keep all other properties untouched, **including the channel number**. Once you have these copies, you can combine them in a bundle.
+2. Go to Bundles and create a new one, call it "Approval bundle" to not confuse it with other live bundles. Add that approval content, additionally you can create different categories like News, Sports, etc. Don't forget to publish this bundle.
+3. Go to Inventory > Subscriptions > click Add Subscription and create an approval one, call it "Approval product", select BASE type, PAID variant, include the bundle you made, 5 maximum allowed devices and significant subscription length about a year or more with zero cost. Don't forget to publish it.
+4. Go to Billing, create a test webshop and add this product therein.&#x20;
+5. Go to Customer and create customers apple\_approval, google\_approval, etc. Give it a password like 1234.
+6. Try to log in with these credentials and make sure it shows the defined content.
 
 </details>
 
