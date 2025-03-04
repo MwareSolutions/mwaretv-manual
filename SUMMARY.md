@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home page](README.md)
+* [Concepts](concepts.md)
 * [How-to](how-to/README.md)
   * [Content how-to](how-to/content-how-to/README.md)
     * [How to add a channel](how-to/content-how-to/how-to-add-a-channel.md)
@@ -102,7 +103,7 @@
   * [App Texts](tvms-administration/application/app-texts.md)
   * [Settings](tvms-administration/application/settings.md)
 
-***
+## Q\&A
 
-* [Concepts](concepts.md)
-* [Q\&A](q-and-a.md)
+* [Reporting a TV channel issue](q-and-a/reporting-a-tv-channel-issue.md)
+* [Page 1](q-and-a/page-1.md)
