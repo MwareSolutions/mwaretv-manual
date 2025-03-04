@@ -22,7 +22,7 @@ Follow the steps to add a channel, required field are emphasized:
 * Add tags to identify its genres and make available in the app search
 * Set _Content placement_ if you want to have any temporary settings for this channel
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
-* Select an _EPG source_ and channel, make sure that [EPG is already added](guide.md)
+* Select an _EPG source_ and channel, make sure that [EPG is already added](guide/)
 * Select PPV rules, read here [how to add one](pay-per-view.md)
 * Upload a _channel icon_ of **1:1 aspect ratio**, make sure it is contrast enough against the background
 

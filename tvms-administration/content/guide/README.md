@@ -16,7 +16,7 @@ Support Suppliers:
 If your supplier **is not** listed above please **contact** our **support** and we will add it as soon as possible.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/изображение (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/изображение (26).png" alt=""><figcaption></figcaption></figure>
 
 ## Linking
 
@@ -24,13 +24,13 @@ For a channel, you need **to select** a _TV Guide Source_ from a dropdown, then 
 
 Switch a tab to _Radio stations_ if needed.
 
-<figure><img src="../../.gitbook/assets/Без имени (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Без имени (73).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Settings
 
-<figure><img src="../../.gitbook/assets/Без имени (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Без имени (74).png" alt=""><figcaption></figcaption></figure>
 
 You may set **custom text** instead of default gaps in the TV Guide if you don’t want to display N/A:N/A
 
