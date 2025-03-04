@@ -8,9 +8,7 @@ The following information got from the official Stripe documentation [https://do
 
 Register your Stripe account: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
 
-<details>
-
-<summary>Activate your account</summary>
+### Activate your account
 
 To activate your account, fill out the [account application](https://dashboard.stripe.com/account/onboarding) requesting some basic information about your business, product, and your personal relationship to your business. After activating your account, you can immediately start accepting live payments.
 
@@ -18,11 +16,7 @@ Stripe’s “Know Your Customer” (KYC) obligations require that we collect an
 
 After you activate your Stripe account, you can’t change its country. If you need to use Stripe in a different country that we support, you must create a new account.
 
-</details>
-
-<details>
-
-<summary>Public business information</summary>
+### Public business information
 
 Your customers see the following details on either their card statements or in [email receipts](https://docs.stripe.com/receipts) sent by Stripe.
 
@@ -37,15 +31,7 @@ Statement descriptors are limited to between 5 and 22 characters. They must cont
 
 You can also use dynamic statement descriptors when creating a charge so that each payment has a custom statement descriptor. This dynamic text is appended to the [shortened descriptor](https://dashboard.stripe.com/settings/public) set in the Stripe Dashboard. Statement descriptor prefixes are limited to between 2 and 10 characters. For detailed information, see the documentation on [statement descriptors](https://docs.stripe.com/get-started/account/statement-descriptors).
 
-</details>
-
-<details>
-
-<summary>Reveal a secret key</summary>
-
-{% hint style="info" %}
-This info has been taken from [https://docs.stripe.com/keys](https://docs.stripe.com/keys)
-{% endhint %}
+### Reveal a secret key
 
 ### Reveal a secret API key in a sandbox <a href="#reveal-an-api-secret-key-for-test-mode" id="reveal-an-api-secret-key-for-test-mode"></a>
 
@@ -76,8 +62,6 @@ After you create a secret or restricted API key in live mode, we display the val
 * In the **Note** field, enter the location where you saved the key, then click **Save**.
 * If you created the key before Stripe introduced this feature, click **Hide live key**.
 
-</details>
-
 ## PayPal
 
 {% hint style="info" %}
@@ -86,14 +70,10 @@ The following information got from the official PayPal documentation [https://ww
 
 Before signing up for your PayPal Business account, ensure that you have the correct ID information on hand.You’ll need your business registration information, business license and legal representative’s ID document.
 
-<details>
+### Account creation
 
-<summary>Account creation</summary>
-
-1. All you need are basic details such as your business name, contact details, and which currency you want to send and receive payments in. Make sure the name you use is identical to the one showing on your business license to prevent security issues.
-
-![](../.gitbook/assets/step-2-tell-us-more-abt-your-biz.png)
-
+1. All you need are basic details such as your business name, contact details, and which currency you want to send and receive payments in. Make sure the name you use is identical to the one showing on your business license to prevent security issues.\
+   ![](../.gitbook/assets/step-2-tell-us-more-abt-your-biz.png)
 2. Please fill in details such as, product/service keywords, company URL (if applicable), country of registration, Business registration number and date of registry.\
    ![](../.gitbook/assets/step-3-tell-us-abt-yourself.png)
 3. Let know more about yourself, your country of birth and your current country of residency. If you do not have a National Identity Card, you may also sign up with your passport number or other photographed national ID.\
@@ -106,17 +86,9 @@ Before signing up for your PayPal Business account, ensure that you have the cor
 6. Linking your bank account gives you another option to pay with the security of PayPal’s encryption and data protection. You can withdraw funds from PayPal to your bank account once you’ve [linked your account](https://www.paypal.com/c2/webapps/mpp/how-to-guides/activate-your-business-account?locale.x=en_C2).\
    ![](../.gitbook/assets/business-set-up.png)
 
+### How do I create Client ID and Secret Key?
 
-
-</details>
-
-<details>
-
-<summary>How do I create Client ID and Secret Key?</summary>
-
-{% hint style="info" %}
 This info has been taken from [https://www.paypal.com/us/cshelp/article/How-do-I-create-REST-API-credentials-ts1949](https://www.paypal.com/us/cshelp/article/How-do-I-create-REST-API-credentials-ts1949)
-{% endhint %}
 
 * Log in to the [PayPal Developer Portal](https://developer.paypal.com) using the same credentials you use for [PayPal](https://www.paypal.com).
 * On the [Apps & Credentials](https://developer.paypal.com/dashboard/applications/sandbox) page, click **Live** or **Sandbox** depending on whether you need an app for testing (Sandbox) or going live (Live).
@@ -135,37 +107,23 @@ This info has been taken from [https://www.paypal.com/us/cshelp/article/How-do-I
   * Advanced Credit & Debit Cards
   * Vault
 
-</details>
-
 ## Chapa
 
-<details>
-
-<summary>Account creation and API keys</summary>
-
-1. Go to [https://dashboard.chapa.co/register](https://dashboard.chapa.co/register)&#x20;
+1. In order to register an account, go to [https://dashboard.chapa.co/register](https://dashboard.chapa.co/register)&#x20;
 2. There, specify all the required fields like full and last name, login, password, etc.
 
 Once your account is created, you may specify more business information in order to activate the Live mode.
 
 API Keys are available by the link: [https://dashboard.chapa.co/dashboard/profile/compliance#api-tab](https://dashboard.chapa.co/dashboard/profile/compliance#api-tab)
 
-</details>
-
 ## PayFast
 
-<details>
-
-<summary>Account creation and API keys</summary>
-
-1. Go to [https://registration.payfast.io/](https://registration.payfast.io/)
+1. In order to create an account, go to [https://registration.payfast.io/](https://registration.payfast.io/)
 2. On Step 1, specify email, password, account type
 3. On Step 2, specify your Display name, Industry, phone number, etc.
 4. On Step 3, specify your location
 5. On Step 4, specify your banking details like your bank and account number
 6. Finally, specify your personal info using your SA ID or Passport
-
-
 
 To find your Merchant ID and Key do the following:
 
@@ -173,13 +131,7 @@ To find your Merchant ID and Key do the following:
 2. Navigate to Account > Personal Information.
 3. Your Merchant ID and Key can be found on the top right-hand corner of the page.
 
-</details>
-
 ## Paystack
-
-<details>
-
-<summary>Account creation and API keys</summary>
 
 Registration is pretty easy, please follow the link: [https://dashboard.paystack.com/#/signup](https://dashboard.paystack.com/#/signup)
 
@@ -187,16 +139,8 @@ There, specify your name, email and other required fields, then you receive a ma
 
 When you have it activated, go to [https://dashboard.paystack.com/#/settings/developers](https://dashboard.paystack.com/#/settings/developers) and copy Secret key to use in the TVMS.
 
-</details>
-
 ## Flutterwave
 
-<details>
-
-<summary>Account creation and API keys</summary>
-
-Go to [https://app.flutterwave.com/register](https://app.flutterwave.com/register). Specify your country and account type. On the next step, specify you company and personal name, email, password, etc., don't forget to confirm you email.
+Go to [https://app.flutterwave.com/register](https://app.flutterwave.com/register) to create an account. Specify your country and account type. On the next step, specify you company and personal name, email, password, etc., don't forget to confirm you email.
 
 Once you're registered, go to [https://app.flutterwave.com/dashboard/settings/apis/live](https://app.flutterwave.com/dashboard/settings/apis/live) copy and paste the secret key in the TVMS
-
-</details>
