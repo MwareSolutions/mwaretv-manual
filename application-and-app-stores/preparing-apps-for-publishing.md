@@ -6,7 +6,11 @@ First of all, you need to create an app approval product. This would be a specia
 
 <summary>Create an app approval product</summary>
 
-
+1. In Content > Bundles, create an approval bundle with a limited number of channels, about 10 and be prepared to send legal papers for these channels. Publish the bundle.
+2. Go to Inventory and create an approval product with this bundle, zero cost and significant subscription length, about a year or more. Publish it.
+3. Go to Billing, create a test webshop and add this product therein.&#x20;
+4. Go to Customer and create customers apple\_approval, google\_approval, etc. Give it a password like 1234.
+5. Try to log in with these credentials and make sure it shows the defined content.
 
 </details>
 

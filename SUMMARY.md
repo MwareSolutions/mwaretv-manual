@@ -34,13 +34,13 @@
 * [Transcoding and streaming](transcoding-and-streaming.md)
 * [Application and app stores](application-and-app-stores/README.md)
   * [Completing the prerequisites](application-and-app-stores/completing-the-prerequisites.md)
-  * [Testing an app](application-and-app-stores/testing-an-app.md)
   * [Preparing Apps for Publishing](application-and-app-stores/preparing-apps-for-publishing.md)
   * [Register Developer Account](application-and-app-stores/register-developer-account.md)
   * [Payment gateway accounts](application-and-app-stores/payment-gateway-accounts.md)
   * [Email gateway accounts](application-and-app-stores/email-gateway-accounts.md)
   * [SMS gateways accounts](application-and-app-stores/sms-gateways-accounts.md)
   * [Push Notifications Gateway](application-and-app-stores/push-notifications-gateway.md)
+  * [Testing an app](application-and-app-stores/testing-an-app.md)
 
 ## TVMS administration
 
@@ -107,4 +107,3 @@
 ## Q\&A
 
 * [Reporting a TV channel issue](q-and-a/reporting-a-tv-channel-issue.md)
-* [Page 1](q-and-a/page-1.md)
