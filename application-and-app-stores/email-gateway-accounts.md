@@ -2,44 +2,26 @@
 
 ## Sendgrid
 
-<details>
-
-<summary>API keys</summary>
-
-{% hint style="info" %}
-Below is a copy of the original Twilio article available by the link: [https://www.twilio.com/docs/sendgrid/ui/account-and-settings/api-keys](https://www.twilio.com/docs/sendgrid/ui/account-and-settings/api-keys)
-{% endhint %}
-
-1. Navigate to **Settings** on the left navigation bar, and then select **API Keys**.
-2. Click **Create API Key**.
-3. Give your API key a name.
-4. Select **Full Access**, **Restricted Access**, or **Billing Access**.
-5. If you're selecting **Restricted Access**, or **Billing Access**, select the specific permissions to give each category. For more information, see [API key permissions](https://www.twilio.com/docs/sendgrid/ui/account-and-settings/api-keys#api-key-permissions).
-6. Click **Create & View**.
-7. Copy your API key somewhere safe. For security reasons, do not put it directly in your code, or commit it somewhere public like GitHub.
-
-</details>
+* On the left navigation bar find and open **Settings,** then open **API Keys**.
+* Click **Create API Key**.
+* Specify a name to your API key.
+* Select one of three: **Full Access**, **Restricted Access**, or **Billing Access**.\
+  \- **Full Access** gives you full access to available methods, excluding billing.\
+  \- **Restricted Access** customizes levels of access for all parts of your account, excluding billing and Email Address Validation.\
+  \- **Billing Access** allows the API key to access billing.
+* Click **Create & View**.
+* Copy your API key in the TVMS. Also it's better to save it somewhere else in a safe place.&#x20;
 
 ## Mailgun
 
-<details>
-
-<summary>API keys</summary>
-
-{% hint style="info" %}
-Below is a copy of the original Mailgun article available by the link: [https://help.mailgun.com/hc/en-us/articles/203380100-Where-can-I-find-my-API-keys-and-SMTP-credentials](https://help.mailgun.com/hc/en-us/articles/203380100-Where-can-I-find-my-API-keys-and-SMTP-credentials)
-{% endhint %}
-
-1. In the top-right corner of the **Mailgun Control Panel**, _click_ your **Profile Menu** to expand the drop-down list of options.\
+1. Log in to the **Mailgun Control Panel**, in the top-right corner click your **username** to expand the dropdown.\
    ![](../.gitbook/assets/MG.TopNav.ProfileMenu.png)
-2. Next, _click_ the **API Security** option. Alternatively, you can use [**this direct link**](https://app.mailgun.com/settings/api_security). \
+2. Click **API Security option**\
    ![](../.gitbook/assets/MG.TopNav.ProfileMenu.APISecurity.png)
-3. The resulting page displays the Verifications Public Key, HTTP Webhook Signing Key, and most importantly for our present purpose, the Mailgun API Keys. To create the new key, _click_ the **Add new key** button.\
+3. On the opened page you see API keys. To create a new key, click the **Add new key** button.\
    ![](../.gitbook/assets/Account.APIKeys.List.png)
-4. Finally, _type_ a description, _choose_ a role, and _click_ the **Create Key** button in the pop-up modal to confirm creation of the new Mailgun API Key.\
+4. Specify a description and role, click the **Create Key** button in a pop-up window.\
    ![](../.gitbook/assets/ContentBlock.APISecurityPage.AddAPIKey.png)
-
-</details>
 
 
 

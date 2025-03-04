@@ -2,48 +2,25 @@
 
 ## Stripe
 
-{% hint style="info" %}
-The following information got from the official Stripe documentation [https://docs.stripe.com/get-started/account](https://docs.stripe.com/get-started/account)
-{% endhint %}
-
 Register your Stripe account: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
 
 ### Activate your account
 
-To activate your account, fill out the [account application](https://dashboard.stripe.com/account/onboarding) requesting some basic information about your business, product, and your personal relationship to your business. After activating your account, you can immediately start accepting live payments.
+In order to activate your account, fill out the account application available the link: [https://dashboard.stripe.com/account/onboarding](https://dashboard.stripe.com/account/onboarding). Specify there basic information about your business, product and personal info. Once your account is activated, you start accepting payments.
 
-Stripe’s “Know Your Customer” (KYC) obligations require that we collect and maintain this information on all Stripe users. These requirements come from our regulators and financial partners, and are intended to prevent abuse of the financial system. We review the information you provide internally to make sure that it complies with [our services agreement](https://stripe.com/legal). We’ll contact you if we need any further information.
+{% hint style="info" %}
+After activation you can't change the country. If you need to work with different countries, create a new account.
+{% endhint %}
 
-After you activate your Stripe account, you can’t change its country. If you need to use Stripe in a different country that we support, you must create a new account.
+Note that Stripe follows “Know Your Customer” (KYC) and collection information about users. It's needed to match the regulatory rules and prevent a fraud. They may contact you in order to confirm the information you provided before.
 
-### Public business information
+**To get a secret key in a sandbox:**
 
-Your customers see the following details on either their card statements or in [email receipts](https://docs.stripe.com/receipts) sent by Stripe.
+1. In the Developers Dashboard, open the **API keys** tab.
+2. In the **Standard keys** > **Secret key** row, click **Reveal test key**.
+3. Copy the API key and paste in the TVMS. It's better to save it somewhere else in a secure place.
 
-* Business name and website URL
-* Business email address, phone number, and address
-* Support site URL
-* Statement descriptor text
-
-You provide this information when you activate your account, and can update it any time in your [Account settings](https://dashboard.stripe.com/settings/public). Make sure that your statement descriptor text and business information are clearly associated with you. If your customer can’t recognize one of your payments, they might [dispute](https://docs.stripe.com/disputes) it.
-
-Statement descriptors are limited to between 5 and 22 characters. They must contain at least 5 letters and can’t use the special characters `<`, `>`, `\`, `'`, `"`, or `*`.
-
-You can also use dynamic statement descriptors when creating a charge so that each payment has a custom statement descriptor. This dynamic text is appended to the [shortened descriptor](https://dashboard.stripe.com/settings/public) set in the Stripe Dashboard. Statement descriptor prefixes are limited to between 2 and 10 characters. For detailed information, see the documentation on [statement descriptors](https://docs.stripe.com/get-started/account/statement-descriptors).
-
-### Reveal a secret key
-
-### Reveal a secret API key in a sandbox <a href="#reveal-an-api-secret-key-for-test-mode" id="reveal-an-api-secret-key-for-test-mode"></a>
-
-To reveal a secret key in a sandbox:
-
-1. In the Developers Dashboard, select the [API keys](https://dashboard.stripe.com/test/apikeys) tab.
-2. In the **Standard keys** list, in the **Secret key** row, click **Reveal test key**.
-3. Copy the key value by clicking it.
-4. Save the key value.
-5. Click **Hide test key**.
-
-### Reveal a secret or restricted API key for live mode ![](https://b.stripecdn.com/docs-statics-srv/assets/fcc3a1c24df6fcffface6110ca4963de.svg) <a href="#reveal-an-api-secret-key-live-mode" id="reveal-an-api-secret-key-live-mode"></a>
+**To get a secret key in live:**
 
 For security, in live mode Stripe only shows you a secret or restricted API key one time. Store the key in a safe place where you won’t lose it. To help yourself remember where you stored it, you can leave a note on the key in the Dashboard. If you lose the key, you can roll it or delete it and create another.
 
@@ -53,7 +30,7 @@ For security, in live mode Stripe only shows you a secret or restricted API key 
 After you create a secret or restricted API key in live mode, we display the value before you save it. You must copy the value before saving it because you can’t reveal it later. You can only reveal a default secret key or a key generated by a scheduled roll.
 {% endhint %}
 
-* In the Developers Dashboard, select the [API keys](https://dashboard.stripe.com/apikeys) tab.
+* In the Developers Dashboard, open the **API keys** tab.
 * In the **Standard keys** list or **Restricted keys** list, in the row for the key you want to reveal, click **Reveal live key**.
 * Copy the key value by clicking it.
 * Save the key value.
