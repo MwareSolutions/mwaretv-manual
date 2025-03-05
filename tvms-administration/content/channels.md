@@ -46,7 +46,7 @@ You may also check properties of already added channels by clicking _Details_.
 
 Information is divided in different tabs so you can navigate through and change the values.
 
-Expand to take a look what is inside every tab:\\
+Expand to take a look what is inside every tab:
 
 <details>
 
