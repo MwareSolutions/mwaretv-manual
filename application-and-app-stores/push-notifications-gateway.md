@@ -14,7 +14,7 @@ This document provides step-by-step instructions on how to create a Firebase pro
 
 
     <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Access Project Settings</p></figcaption></figure>
-4.  Click the **Add Member** button and add the email address apps@iptvmiddleware.com. Assign the **Editor** role to this user.\
+4.  Click the **Add Member** button and add the email address **apps@iptvmiddleware.com**. Assign the **Editor** role to this user.\
 
 
     <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption><p>Grant Access to MwareTV</p></figcaption></figure>
