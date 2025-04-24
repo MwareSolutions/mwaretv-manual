@@ -27,6 +27,7 @@ Follow the steps to add a movie, required field are emphasized:
 * Add _stream URL_, use **MP4** or **DASH**
 * Add _Description/Translations_ to provide a general info about a movie for end users
 * Add _Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Define _actors_
 * Set a _Parental Control_ ON to lock it from kids
 * Set _Content placement_ if you want to have any temporary settings for this movie
