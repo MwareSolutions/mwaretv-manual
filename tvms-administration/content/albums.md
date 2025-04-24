@@ -21,6 +21,8 @@ Follow the steps to add an album, required field are emphasized:
 * Add _Description/Translations_ to provide a general info about an album for end users
 * Add _Tags_ to make it available for search in the application
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Set _Content placement_ if you want to have any temporary settings for this album
 * Select _PPV rules_, read here [how to add one](pay-per-view.md)
 * Upload a _album image of 1:1 aspect ratio_

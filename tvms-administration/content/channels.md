@@ -25,6 +25,9 @@ Follow the steps to add a channel, the required field are emphasized:
 * Add _stream URLs_, pay attention that **iOS/tvOS/KaiOS use .m3u8 only**, other platforms use **.mpd**
 * If you provide a TV archive service, fill in _InteractiveTV fields,_ make sure you already have [transcoders](https://mwaretv.atlassian.net/wiki/spaces/TM/pages/46170185)
 * Turn on Parental Control to restrict access for children.
+* Below, you can set a _country-specific age rating_
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Set _Content placement_ if you want to have any temporary settings for this channel
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](https://mwaretv.atlassian.net/wiki/spaces/TM/pages/45645893)
 * Select an _EPG source_ and channel, make sure that [EPG is already added](https://mwaretv.atlassian.net/wiki/spaces/TM/pages/45580299)

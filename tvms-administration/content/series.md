@@ -30,6 +30,9 @@ Follow the steps to add a series, required field are emphasized:
 * Select _PPV rules_, read here [how to add one](pay-per-view.md)
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
 * Set a _Parental Control_ ON to lock it from kids
+* Below, you can set a _country-specific age rating_
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Set _Content placement_ if you want to have any temporary settings for this series
 * Upload a _series widescreen 640x360 pixels, series logo of 300x100 pixels_
 

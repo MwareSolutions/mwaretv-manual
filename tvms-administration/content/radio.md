@@ -19,7 +19,8 @@ Follow the steps to add a channel, required field are emphasized:
 * Specify general info like _Name_ and _Number_
 * Select a _provider_ of a radio. Refer to [the instructions ](settings.md#providers)to add one
 * Add _stream URLs_, pay attention that **iOS/tvOS/KaiOS use .m3u8 only**, other platforms use **.mpd**
-* Add tags to identify its genres and make available in the app search
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Set _Content placement_ if you want to have any temporary settings for this channel
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
 * Select an _EPG source_ and channel, make sure that [EPG is already added](guide/)

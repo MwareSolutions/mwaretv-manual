@@ -16,7 +16,9 @@ Follow the steps to add a game, required field are emphasized:
 
 * Specify _Name_
 * Select a _provider_ of a game. Refer to [the instructions ](settings.md#providers)to add one
-* Add _Tags_ to make it available for search in the application
+* Below, you can set a _country-specific age rating_
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Add _Description_ to provide a general info about a game for end users
 * Set _Content placement_ if you want to have any temporary settings for this game
 * Turn _Social Media Share_ ON if you'd like to let customers share this content

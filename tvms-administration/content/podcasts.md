@@ -19,7 +19,9 @@ Follow the steps to add a podcast, required field are emphasized:
 * Specify general info like _Name_, Creator and others
 * Select a _provider_ of a podcast. Refer to [the instructions](settings.md#providers) to add one
 * Add _Description/Translations_ to provide a general info about a podcast for end users
-* Add _Tags_ to make it available for search in the application
+* Below, you can set a _country-specific age rating_
+* Add _Content Tags_ to make it available for search in the application
+* Add _Content Genres_ to indicate it and help users better understand the content
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
 * Select _PPV rules_, read here [how to add one](pay-per-view.md)
 * Set _Content placement_ if you want to have any temporary settings for this podcast
