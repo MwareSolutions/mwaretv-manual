@@ -22,7 +22,6 @@ Follow the steps to add a shorts, required field are emphasized:
 * Add _Description/Translations_ to provide a general info about shorts for end users
 * Add _Content Tags_ to make it available for search in the application
 * Add _Content Genres_ to indicate it and help users better understand the content
-* Set a _Parental Control_ ON to lock it from kids
 * Set _Content placement_ if you want to have any temporary settings for this shorts
 * Set a _token_ and _DRM_ (if any), refer [how to add DRM](drm-and-tokens.md)
 * If you use _VAST_, put a link
